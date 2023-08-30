@@ -8,7 +8,7 @@
  * @author Peter Lai <alk03073135@gmail.com>
  */
 
-namespace Web3p\EthereumWallet\Wordlist;
+namespace Mrinte\EthereumWallet\Wordlist;
 
 use BitWasp\Bitcoin\Mnemonic\Bip39\Bip39WordListInterface;
 use BitWasp\Bitcoin\Mnemonic\WordList;

@@ -9,7 +9,7 @@
  * @license MIT
  */
 
-namespace Web3p\EthereumWallet;
+namespace Mrinte\EthereumWallet;
 
 use BitWasp\Bitcoin\Mnemonic\MnemonicFactory;
 use BitWasp\Bitcoin\Mnemonic\Bip39\Bip39SeedGenerator;
